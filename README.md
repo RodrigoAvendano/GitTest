@@ -1,2 +1,3 @@
 # GitTest
-A repository to make Git test
+
+Knowing Git with multiple examples
